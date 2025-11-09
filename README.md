@@ -32,10 +32,10 @@
 ### 🏗 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧾 **RAG Chatbot for Documents** | Retrieval-Augmented Generation chatbot that answers questions from PDFs. | LangChain, FAISS, OpenAI, Streamlit |
-| 🧠 **Agentic AI Workflow (Planner + Executor)** | Multi-agent system that plans and executes tasks autonomously. | LangGraph, CrewAI, OpenAI API |
-| 📊 **Predictive ML Dashboard** | End-to-end app for business forecasting and analytics. | XGBoost, Streamlit, PowerBI |
-| 📚 **Text Summarizer using Pegasus** | NLP model for abstractive summarization trained on SAMSUM dataset. | TensorFlow, Pegasus, Hugging Face |
+| 🧾 **RAG Chatbot for Documents** | Retrieval-Augmented Generation chatbot that answers questions from PDFs or internal files. | LangChain, FAISS, OpenAI, Streamlit |
+| 🧠 **Agentic AI Workflow (Planner + Executor)** | Multi-agent system that plans and executes research or data tasks autonomously. | LangGraph, CrewAI, OpenAI API |
+| 📊 **Predictive ML Dashboard** | End-to-end web app for business forecasting and analytics. | XGBoost, Streamlit, PowerBI |
+| 🤖 **Automation Agent for Freelancers (Coming Soon)** | Personal Agentic AI that drafts client proposals and tracks freelance projects. | CrewAI, LangChain, FastAPI |
 
 ---
 
