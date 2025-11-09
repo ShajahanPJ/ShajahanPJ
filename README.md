@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.mos.cms.futurecdn.net/VFLt5vHV7aCoLrLGjP9Qwm-1200-80.jpg)](https://www.livescience.com/technology/artificial-intelligence/what-is-artificial-intelligence-ai)
 
 <h1 align="center">Hi 👋, I'm Shajahan PJ</h1>
-<h3 align="center">🚀 AI Model Developer | Data Scientist | NLP & LLM Specialist — Turning data and documents into intelligent AI systems</h3>
+<h3 align="center"> AI Model Developer | Data Scientist | NLP & LLM Specialist — Turning data and documents into intelligent AI systems</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
